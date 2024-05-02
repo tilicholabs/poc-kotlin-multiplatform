@@ -18,7 +18,7 @@ _KMM App_
 
 ## Code structure
 
-There will be 3 modules in the repo
+There are 3 major modules in the repo
 - `androidApp` module contains the Android code
 - `iosApp` module contains the iOS code
 - `shared` module contains the code that can be shared for both Android and iOS apps.
